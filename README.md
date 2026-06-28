@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **full-stack web apps with Next.js & TypeScript**
 - 🌱 I’m exploring **AI / computer vision (OpenCV)** alongside web development
 - 💬 Ask me about **React, Next.js, TypeScript, and Python**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **sreeragmsurendran1997@gmail.com**
 - ⚡ Fun fact: _add something fun about yourself here_
 
 ---
@@ -60,13 +60,13 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/sreeragmsurendran/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+  <!-- <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  </a> -->
+  <a href="mailto:sreetagmsurendran1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
